@@ -1,0 +1,3 @@
+﻿  student.cpp
+H:\classroom booking system\classroom booking system\student.cpp(232,30): warning C4018: “<=”: 有符号/无符号不匹配
+  classroom booking system.vcxproj -> H:\classroom booking system\Debug\classroom booking system.exe
